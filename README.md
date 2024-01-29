@@ -2,6 +2,9 @@
 
 **Título:** Recriando Wikipedia, com um layout melhor :)
 
+## Nota:
+O projeto a seguir tem como finalidade recriar o layout do site Wikipedia, usando somente HTML.
+
 ## Objetivo
 Este desafio consiste em treinar você com relação a estrutura do site, e também aplicar conhecimentos adiquiridos sobre semântica e acessibilidade.
 
