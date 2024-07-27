@@ -1,6 +1,6 @@
 # Módulo 3 - Trilha HTML
 
-**Título:** Recriando Wikipedia, com um layout melhor :)
+**Título:** Recriando Wikipedia, com um layout melhor (DIO) :)
 
 ## Nota:
 O projeto a seguir tem como finalidade recriar o layout do site Wikipedia, usando somente HTML.
